@@ -1,5 +1,15 @@
 # Weblabel
-Music has been open and public since ancient times. Weblabel is a music label for borderless artists who can create grooves with just a vibe. Weblabel contributes to the borderless music culture and supports artists who believe that love, respect, safety, and privacy are important for everyone.
+Music has been open and public since ancient times. Weblabel is a music label for borderless artists who can create grooves. Weblabel contributes to the borderless music culture and supports artists who believe that love, respect, safety, and privacy are important for everyone.
+
+
+ ##   ##  #######  ######   ####       ##     ######   #######  ####
+ ##   ##   ##   #   ##  ##   ##       ####     ##  ##   ##   #   ##
+ ##   ##   ## #     ##  ##   ##      ##  ##    ##  ##   ## #     ##
+ ## # ##   ####     #####    ##      ##  ##    #####    ####     ##
+ #######   ## #     ##  ##   ##   #  ######    ##  ##   ## #     ##   #
+ ### ###   ##   #   ##  ##   ##  ##  ##  ##    ##  ##   ##   #   ##  ##
+ ##   ##  #######  ######   #######  ##  ##   ######   #######  #######
+
 
 ## Weblabel Stack
 Weblabel is built on a decentralized stack to ensure its longevity.
