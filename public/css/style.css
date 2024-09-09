@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 64px;
+}
+
+a {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p, ul, li {
+    line-height: 1.6;
+}
+
+ul {
+    list-style: none; /* バレットを非表示に */
+    padding: 0;
+}
+
+ul li {
+    padding: 8px 0; /* アイテムの間隔を広げる */
+    padding-left: 10px; /* テキストとボーダーの間にスペースを確保 */
+    margin-bottom: 10px;
+    position: relative;
+}
+
+ul li::before {
+    color: #333;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1.5em; /* テキストの外側に配置 */
+}
+
+ul li strong {
+    color: #333; /* 強調部分を青色にして目立たせる */
+}
+
+
+img {
+    max-width: 40%; 
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+}
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #ccc;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #0000EE;
+}
+
+aside {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+}
+
+
+
+/* スマートフォン用のスタイル */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    img {
+        max-width: 100%; /* スマホでは画像が画面全体に広がるように */
+    }
+
+    a.download-button {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 15px 0;
+    }
+    
+    footer {
+        font-size: 10px;
+    }
+}
+
+/* タブレット用のスタイル */
+@media (min-width: 601px) and (max-width: 900px) {
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    img {
+        max-width: 90%;
+    }
+
+    a.download-button {
+        padding: 12px 18px;
+    }
+}

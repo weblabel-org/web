@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://weblabel.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'weblabel'
 theme = 'blank'

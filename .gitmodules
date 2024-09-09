@@ -1,3 +1,6 @@
 [submodule "themes/blank"]
 	path = themes/blank
 	url = https://github.com/weblabel-org/blank
+[submodule "blank"]
+	path = blank
+	url = git@github.com:weblabel-org/blank.git

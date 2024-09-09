@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>weblabel</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on weblabel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2024 22:44:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <title>Super Music</title>
+      <link>http://localhost:1313/posts/supermusic/</link>
       <pubDate>Mon, 09 Sep 2024 22:44:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/supermusic/</guid>
+      <description>&lt;h1 id=&#34;super-music---super-artist&#34;&gt;Super Music - Super Artist&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a1076305216_16.jpg&#34; alt=&#34;Album Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;magnet:?xt=urn:btih:EXAMPLE_HASH&#34;&gt;Download (Magnet)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;artist-information&#34;&gt;Artist Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Artist&lt;/strong&gt;: Super Artist&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Label&lt;/strong&gt;: weblabel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Album&lt;/strong&gt;: &lt;a href=&#34;albumhogehgoge&#34;&gt;Album name&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This is super music from super artist.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;donation&#34;&gt;Donation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;BTC (Bitcoin)&lt;/strong&gt;: &lt;code&gt;bc1fjqoaiwejiwafioaaoeaijfeaj&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ETH (Ethereum mainnet)&lt;/strong&gt;: &lt;code&gt;0x2398urfau0wfuafua9fu9afa9u&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;USDC (Ethereum mainnet)&lt;/strong&gt;: &lt;code&gt;0x2398urfau0wfuafua9fu9afa9u&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;USDT (Ethereum mainnet)&lt;/strong&gt;: &lt;code&gt;0x2398urfau0wfuafua9fu9afa9u&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
